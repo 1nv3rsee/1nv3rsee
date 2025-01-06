@@ -9,5 +9,5 @@
 - Базове розуміння (Swift)
 - Робота з Git/GitHub
 ## 📬 Зв'язатися зі мною:
-- [LinkedIn] https://www.linkedin.com/in/mykhailo-uhriumov/
+- [LinkedIn badge] https://www.linkedin.com/in/mykhailo-uhriumov/
 - Email: ugryumov.mik@gmail.com
